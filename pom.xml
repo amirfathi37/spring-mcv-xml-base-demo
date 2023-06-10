@@ -30,13 +30,13 @@
         </dependency>
         <dependency>
             <groupId>com.oracle</groupId>
-            <artifactId>ojdbc</artifactId>
+            <artifactId>ojdbc14</artifactId>
             <version>14</version>
         </dependency>
         <dependency>
-            <groupId>com-ndrc</groupId>
+            <groupId>jstl</groupId>
             <artifactId>jstl</artifactId>
-            <version>1.0</version>
+            <version>1.2</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
